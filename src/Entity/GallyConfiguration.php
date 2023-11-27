@@ -6,7 +6,7 @@ namespace Gally\SyliusPlugin\Entity;
 
 use Sylius\Component\Resource\Model\ResourceInterface;
 
-final class GallyConfiguration implements ResourceInterface, GallyConfigurationInterface
+class GallyConfiguration implements ResourceInterface, GallyConfigurationInterface
 {
     protected ?int $id;
     protected string $baseUrl;

@@ -9,7 +9,7 @@
     ],
     "license": "OSL-3.0",
     "require": {
-        "php": "^8.0",
+        "php": "^8.2",
         "sylius/sylius": "^1.12",
         "gally/gally-php-rest-sdk": "^1.0.2"
     },
